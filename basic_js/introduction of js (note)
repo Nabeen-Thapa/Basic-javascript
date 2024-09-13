@@ -1,0 +1,32 @@
+javascript
+
+--------------------------------------------------------------------------
+* intro
+- created around April 1995 by Brendan Eich
+- specially scripting language used for interactive page,
+-Node.js was released in 2009
+- Nowdays , js is a powerfull language, usede to develop web, desktop anm mobile apps,
+
+
+*why js
+- only language , run in the broweser
+-essential to develop application
+- popupar
+- opportunities for frontend , backend and mobile developer
+
+starting name is livescript , at that time java is most popuplar language so is named as javascript. Only name on the basic of java but they are totally different with each other
+
+
+*console ontroduction
+- In every programming language, there is a compiler or interpreter that helps run the code and identify errors. JavaScript, being an interpreted language, is executed by a JavaScript engine, which is embedded in web browsers or environments like Node.js. Each JavaScript engine has a console that acts as a built-in debugging tool.
+
+* some basic console commands 
+pdw                     - to find current directory opened in terminal
+cd (change directory)   - to change direcory
+     cd..               - used to go parent directory
+     cd directory/path/.... 
+     ../..             - To go up more than one directory
+clear                  - To clear your console from previous commands and output
+ls               - to see the list of all files and foleder in cuurent directory
+touch  new_file_name.js       - create new file in current directory
+node file_name.js       - run the file 
